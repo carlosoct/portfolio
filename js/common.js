@@ -70,6 +70,12 @@ $(function () {
     function webProtfoli() {
         let webData = [
             {
+                imgUrl: 'img/web_036.jpg',
+                webUrl: 'https://carlosoct.github.io/facemask/',
+                name: '口罩庫存地圖',
+                category: 'site-page'
+            },
+            {
                 imgUrl: 'img/web_010.jpg',
                 webUrl: 'temp/web/hotel/index.html',
                 mobileUrl: 'temp/mobile/hotel/index.html',
